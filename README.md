@@ -1,6 +1,6 @@
 # markdown-it-cooklang
 
-The markdown-it SIMILAR implementation of https://cooklang.org. This fork of https://github.com/ulfschneider/markdown-it-cooklang does not mean to be compatible with Cook Lang, but to fit my needs at https://wiki.anarchist.work.
+The markdown-it SIMILAR implementation of https://cooklang.org. This fork of https://github.com/ulfschneider/markdown-it-cooklang does not intent to be compatible with Cook Lang, but to fit my needs at https://wiki.anarchist.work.
 
 ## Diferences
 
